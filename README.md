@@ -12,6 +12,7 @@ An executive-level data analytics portfolio project built using **SQL (BigQuery)
 * `data/` - Cleaned CSV data exports representing Layer 1, Layer 2, and Layer 3 views.
 * `workbook/` - Tableau packaged workbook file (`.twbx`).
 * `docs/` - Comprehensive Executive Insights report.
+* `sql/` - Modular SQL query scripts and transformation layers used to clean, aggregate, and extract core metrics.
 
 ## 🚀 Key Strategic Recommendations
 1. **Cap Promotional Discounts:** Enforce a strict maximum discount threshold of 20%–30%.
