@@ -1,0 +1,9 @@
+-- Granular View (Layer 3)
+CREATE OR REPLACE VIEW `executivesalesdashboard-510919.superstore_data.layer_3` AS
+SELECT
+  sub_category,
+  product_name,
+  discount,
+  ship_mode,
+  segment
+FROM `executivesalesdashboard-510919.superstore_data.cleaned_totals`
